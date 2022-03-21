@@ -1,0 +1,57 @@
+.container {
+    position: absolute;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(207, 206, 198);
+    width: 25%;
+    height: 95vh;
+    /* border-left-width: .5em; */
+}
+
+.profile {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.search {
+    position: absolute;
+    top: 1px;
+}
+
+.card {
+    margin-left: 15px;
+    background-color: rgb(11, 72, 204);
+    width: 90%;
+    height: 160px;
+    border-radius: 8px;
+}
+
+.icon-card {
+    /* position: absolute; */
+    position: relative;
+    top: 45px;
+    margin-left: 35px;
+    border-radius: 4px;
+    padding: 7px;
+}
+
+
+#download {
+    margin: 5px;
+
+}
+
+#btn-download {
+    margin-right: 25px;
+}
+
+#withdraw {
+    margin: 5px;
+}
+
+.favorite {
+    /* display: flex;
+    flex-direction: row; */
+    /* flex: 1; */
+}
